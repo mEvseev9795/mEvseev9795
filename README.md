@@ -1,13 +1,24 @@
-## Привет!
-**Меня зовут Михаил Евсеев, начинающий Java-разработчик** <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+## Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+**Меня зовут Михаил, я начинающий Java-разработчик** <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="35" height="35"/>&nbsp;
 </p>
 
 ---
 
-## Мой итоговый проект по курсу:
+
+- :herb: Занимаюсь программированием, закончил курс Java разработчик в Нетологии. 
+
+- :thumbsup: Очень нравится язык Java, нравится его строгая типизация и универсальность.
+
+- :fire: Все свободное время я отдаю обучению. 
+
+- :telescope: Ищу работу java-разработчиком, хочу заниматься разработкой back-end части приложений
+
+</p>
+
+---
+## Дипломный проект по курсу:
 
 #### Облачное хранилище файлов - [Cloud Storage](https://github.com/mEvseev9795/netology_cloud_storage_backend_)
-
 </p>
 
 ---
@@ -31,3 +42,5 @@ e-mail: stevenson89@yandex.ru
 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"  title="Slack" **alt="Slack" width="40" height="40"/>&nbsp; 
  
 </p>
+
+---
